@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/allenai/agent-eval/commit/28fb1751e6d989a29a3eb99e8a51a336ac1b63c3",
       "git:hexsha": "28fb1751e6d989a29a3eb99e8a51a336ac1b63c3",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.1.56"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.1.56",
+      "repolex:parsedAt": "2026-11-07T18:14:51.909840+00:00"
     },
     {
       "@id": "https://repolex.ai/r/allenai/agent-eval/commit/fde83e33aa449142c415410a91fd368b07922602",
